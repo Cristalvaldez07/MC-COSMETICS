@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\bin\Debug\BeautyProducts.exe.config
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\bin\Debug\BeautyProducts.exe
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\bin\Debug\BeautyProducts.pdb
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.Form1.resources
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.Properties.Resources.resources
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.exe
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.pdb
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.Form2.resources
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.Form3.resources
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.Form4.resources
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.Form5.resources
+C:\Users\Usuario\source\repos\BeautyProducts\BeautyProducts\obj\Debug\BeautyProducts.Form6.resources
